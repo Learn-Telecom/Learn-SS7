@@ -18,13 +18,13 @@
 ## Stack Layers
 
 * [Transport](stack-layers/transport/README.md)
-  * [MTP1](stack-layers/transport/mtp1.md)
+  * [🟢 MTP1](stack-layers/transport/mtp1.md)
   * [MTP2](stack-layers/transport/mtp2.md)
   * [MTP3](stack-layers/transport/mtp3.md)
 * [Applications](stack-layers/applications/README.md)
-  * [SCCP](stack-layers/applications/sccp.md)
+  * [🟢 SCCP](stack-layers/applications/sccp.md)
   * [ISUP](stack-layers/applications/isup.md)
-  * [TCAP](stack-layers/applications/tcap.md)
+  * [🟢 TCAP](stack-layers/applications/tcap.md)
   * [😇 MAP](stack-layers/applications/map.md)
 
 ## Link Types
@@ -39,6 +39,7 @@
 
 * [Point Codes](ss7-addresses/point-codes.md)
 * [SSNs](ss7-addresses/ssns.md)
+* [GTs](ss7-addresses/gts.md)
 
 ## Circuits
 

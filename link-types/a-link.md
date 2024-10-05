@@ -7,7 +7,9 @@ coverY: 0
 
 **Explanation of SS7 A - Link**
 
-SS7 (Signaling System No. 7) is a set of telephony signaling protocols used to set up and tear down telephone calls, route SMS messages, and perform other telephony-related functions. The 'A-Link' in SS7 architecture specifically refers to the Access Link which connects a Signaling Point (SP) to a Signaling Transfer Point (STP).
+SS7 (Signaling System No. 7) is a set of telephony signaling protocols used to set up and tear down telephone calls, route SMS messages, and perform other telephony-related functions.&#x20;
+
+The 'A-Link' in SS7 architecture specifically refers to the Access Link which connects a Signaling Point (SP) to a Signaling Transfer Point (STP).
 
 An 'A-Link' is typically characterized by:
 

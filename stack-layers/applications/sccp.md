@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Telcosec.png
+coverY: 0
+---
+
 # 🟢 SCCP
 
 SCCP is the transport layer and routing mechanism for TCAP messages. Enable SCCP on the SS7 stack if TCAP messaging is to be used.

@@ -11,9 +11,9 @@
 ## Devices
 
 * [Cards](devices/cards.md)
-* [SSP - Service Switching Point](devices/ssp-service-switching-point.md)
-* [STP - Signaling Transfer Point](devices/stp-signaling-transfer-point.md)
-* [SCP - Service Control Point](devices/scp-service-control-point.md)
+* [🟢 SSP - Service Switching Point](devices/ssp-service-switching-point.md)
+* [🟢 STP - Signaling Transfer Point](devices/stp-signaling-transfer-point.md)
+* [🟢 SCP - Service Control Point](devices/scp-service-control-point.md)
 
 ## Stack Layers
 
@@ -39,7 +39,7 @@
 
 * [Point Codes](ss7-addresses/point-codes.md)
 * [SSNs](ss7-addresses/ssns.md)
-* [GTs](ss7-addresses/gts.md)
+* [🟢 GTs](ss7-addresses/gts.md)
 
 ## Circuits
 

@@ -19,8 +19,6 @@ layout:
 
 # SS7 Signalling in Mobile Networks
 
-## Welcome aboard!
-
 Last weak got a new course and its time to add more notes about SS7 Stack (public) and some little details about SS7 Security.
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
